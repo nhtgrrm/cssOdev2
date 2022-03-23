@@ -1,0 +1,126 @@
+
+    /****************** Header *******************/
+
+    
+    header{
+        display: block;
+    }
+
+    .header-img-cont{
+        display: block;
+        text-align: center;
+    }
+    .header-img{
+        margin: auto;
+    }
+    /************* SectionStart ****************/
+    .sect-p-cont1{
+        display: block;
+
+    }
+    .sect-p-cont{
+        margin: auto;
+        text-align: center;
+    }
+    article{
+        display: block;
+        padding-top: 3px;
+      
+    }
+    .article1{
+        display: block;
+        background-color: rgb(220, 221, 221);
+        margin: 0 5% 2px 5%;
+        text-align: center;
+        
+    }
+    .sect-input-cont{
+        display: block;
+        text-align: center;
+       
+
+    }
+    .sect-submit-cont{
+        display: block;
+        text-align: center;
+
+    }
+    .article2{
+        display: flex;
+        margin: 0 5% 0 5%;
+    }
+    
+    .article2-box1{
+        display: block;
+        background-color: #7EE5DA;
+        width: 40%;
+        margin-right: 2px;
+        padding: 11px 0;
+        
+    }
+    .article2-box1-p{
+        text-align: center;
+        margin: auto;
+        font-size: 102%;
+    }
+
+    .article2-box1-a{
+       display: block;
+       text-align: center;
+    }
+
+    .article2-box2{
+        display: block;
+        background-color: #70CCC2;
+        width: 20%;
+        padding: 7px
+    }
+
+    .article2-box2-a{
+        display: block;
+        text-align: center;
+        font-size: 84%;
+    }
+
+    .article-box3{
+        display: block;
+        background-color: #62B3AA;
+        width: 40%;
+        margin-left: 2px;
+        padding: 3px;
+    }
+
+    .article-box3-p{
+        display: block;
+        text-align: center;
+        margin: auto;
+        font-size: 80%;
+    }
+
+    .article-box3-email-cont{
+        display: block;
+        text-align: center;
+    }
+    .article-box3-submit-cont{
+        display: block;
+        text-align: center;
+    }
+    /************* SectionFinish ****************/  
+   
+   
+    /************* FooterStart ****************/
+  
+    .footer{
+        display: block;
+    }
+    .footer-p{
+        text-align: center;
+        font-size: 82%;
+        margin: 20px 0 0 0;
+    }
+
+    /************* FooterFinish ****************/
+
+
+
+
